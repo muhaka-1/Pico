@@ -41,6 +41,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/dev/ws/Pico/build/pico-sdk/cmake_install.cmake")
   include("/home/dev/ws/Pico/build/blink/cmake_install.cmake")
+  include("/home/dev/ws/Pico/build/log/cmake_install.cmake")
 
 endif()
 
