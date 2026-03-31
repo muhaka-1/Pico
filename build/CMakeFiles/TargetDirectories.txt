@@ -663,3 +663,16 @@
 /home/dev/ws/Pico/build/btn/pico-sdk/CMakeFiles/install.dir
 /home/dev/ws/Pico/build/btn/pico-sdk/CMakeFiles/install/local.dir
 /home/dev/ws/Pico/build/btn/pico-sdk/CMakeFiles/install/strip.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/interrupt.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/edit_cache.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/list_install_components.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/install.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/install/local.dir
+/home/dev/ws/Pico/build/interrupt/CMakeFiles/install/strip.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/Pico/build/interrupt/pico-sdk/CMakeFiles/install/strip.dir

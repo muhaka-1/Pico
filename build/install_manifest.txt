@@ -1,2 +1,3 @@
 /firmware/log.uf2
 /firmware/btn.uf2
+/firmware/interrupt.uf2

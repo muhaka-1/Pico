@@ -1,4 +1,4 @@
-# Install script for directory: /home/dev/ws/Pico
+# Install script for directory: /home/dev/ws/pico-sdk
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,23 +37,3 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/arm-none-eabi-objdump")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/home/dev/ws/Pico/build/pico-sdk/cmake_install.cmake")
-  include("/home/dev/ws/Pico/build/blink/cmake_install.cmake")
-  include("/home/dev/ws/Pico/build/log/cmake_install.cmake")
-  include("/home/dev/ws/Pico/build/btn/cmake_install.cmake")
-  include("/home/dev/ws/Pico/build/interrupt/cmake_install.cmake")
-
-endif()
-
-if(CMAKE_INSTALL_COMPONENT)
-  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
-else()
-  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
-endif()
-
-string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
-       "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/dev/ws/Pico/build/${CMAKE_INSTALL_MANIFEST}"
-     "${CMAKE_INSTALL_MANIFEST_CONTENT}")
