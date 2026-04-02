@@ -119,6 +119,8 @@
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/hardware_structs/CMakeFiles/install/local.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/hardware_structs/CMakeFiles/install/strip.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default.dir
+/home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolForceReconfigure.dir
+/home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_bin.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/edit_cache.dir
@@ -499,6 +501,7 @@
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_btstack/CMakeFiles/install.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_btstack/CMakeFiles/install/local.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_btstack/CMakeFiles/install/strip.dir
+/home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/edit_cache.dir
 /home/dev/ws/Pico/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/rebuild_cache.dir
@@ -680,3 +683,16 @@
 /home/dev/ws/Pico/build/wifi/CMakeFiles/install.dir
 /home/dev/ws/Pico/build/wifi/CMakeFiles/install/local.dir
 /home/dev/ws/Pico/build/wifi/CMakeFiles/install/strip.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/watchdog.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/edit_cache.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/list_install_components.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/install.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/install/local.dir
+/home/dev/ws/Pico/build/watchdog/CMakeFiles/install/strip.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/Pico/build/watchdog/pico-sdk/CMakeFiles/install/strip.dir

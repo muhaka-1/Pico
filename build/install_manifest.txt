@@ -2,3 +2,4 @@
 /firmware/btn.uf2
 /firmware/interrupt.uf2
 /firmware/wifi.uf2
+/firmware/watchdog.uf2
